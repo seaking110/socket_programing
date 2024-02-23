@@ -1,8 +1,8 @@
 # 온라인 2인용 오목 게임
----
+
 이 프로젝트는 Java 언어를 사용하여 개발된 온라인 2인용 오목 게임입니다. TCP 소켓 프로그래밍을 기반으로 하며, 게임에는 관전, 복기 등 다양한 기능이 포함되어 있습니다.
 
-![게임 화면 사진](game_screenshot.png)
+![게임 화면 사진](https://github.com/seaking110/socket_programing/assets/55376180/ff693ea8-8e0a-40fd-869c-672ac7c0ff67)
 
 ## 기능
 
