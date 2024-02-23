@@ -15,10 +15,9 @@
 ## 사용법
 
 1. 게임을 실행하고 서버에 연결합니다.
-2. 플레이어와 함께 게임을 진행하거나 관전 모드로 들어갑니다.
+2. 플레이어와 함께 방을 만들어서 게임을 진행하거나 관전 모드로 들어갑니다.
 3. 게임이 종료되면 결과를 확인하고, 필요하다면 기록을 복기합니다.
 
 ## 개발자
 
-- John Doe <johndoe@example.com>
-- Jane Smith <janesmith@example.com>
+- yoon hyen ho <hs1871179@naver.com>
